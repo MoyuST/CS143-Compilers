@@ -1,0 +1,9 @@
+class A {
+ana(): Int {
+    
+(let x:Int , test2:INT <- 2, test3:INT in 2)+3
+};
+};
+
+Class BB__ inherits A {
+};
