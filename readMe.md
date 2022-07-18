@@ -1,6 +1,6 @@
 # CS143 note
 
-For some reasons, i never took a compiler course in my university at CUHK(SZ) which was quite a pity for me. thus i decided to find and study some online courses from other universities. after searching, i found so many people strongly recommending to take the CS143 from Stanford University and that's why i chose it.
+For some reasons, i never took a compiler course in my university at CUHK(SZ) which was quite a pity for me. thus i decided to find and study some online courses from other universities. after searching, i found so many people strongly recommend me to take the CS143 from Stanford University and that's why i chose it.
 
 If you find my repo helpful, plz give me a star👍!
 
