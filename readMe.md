@@ -1700,5 +1700,6 @@ label21:
 ```
 
 ### MIPS simulator(SPIM) running result(`../../bin/spim <(../PA2/lexer example.cl | ../PA3/parser | ../PA4/semant | ./cgen -g)`)
-*notice*: i remove the prompt information of "handler.trap" (which is in `/bin` folder in the VM) to get rid of extra debug information printing which will mess up the running output.
+**notice**: i remove the prompt information of "handler.trap" (which is in `/bin` folder in the VM) to get rid of extra debug information printing which will mess up the running output.
+
 ![SPIM running result](Assets/imgs/SPIM_running_result.png)
